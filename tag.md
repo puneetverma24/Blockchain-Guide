@@ -1,3 +1,11 @@
+
+Basic Concept
+1) Cryptography Concept
+2) About Block in blockchain   
+
+
+
+
 web3
 Ethereum, Solana, Polygon
 Morales
@@ -6,20 +14,17 @@ Typescript
 Javascript
 ReactJs
 
-Cryptography
-
 Solidity : Ethereum virtual Machine
 Vyper : in python
 
 Rust : Solana
-
 
 YouTube Channels
 Eatthatblock
 Smart Contract programmer
 Dapp University
 Crypto zombie
-
+IPFS
 wallet : MetaMask
 etherscan
 
@@ -35,6 +40,7 @@ Remix Online IDE
 Hardhat
 Truffle
 Ganache
+Drizzle
 
 Brownie python alternative to Hardhat
 
@@ -58,3 +64,17 @@ Metaverse
 sandbox
 axe infinity
 decentraland
+
+
+
+Profitable Business Ideas for the Next 10 Years | Crypto, Blockchain by  Silicon Valley Girl https://www.youtube.com/watch?v=hyje-Jy_-rU
+
+
+https://101blockchains.com/blockchain-cheat-sheet/
+
+
+https://stackoverflow.com/questions/46192377/why-is-git-not-considered-a-block-chain
+
+https://github.com/yjjnls/awesome-blockchain
+
+Developer Roadmap By Ishan Sharma https://www.youtube.com/watch?v=q54j35z3fPQ
